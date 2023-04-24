@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="slogan_quote">\"The belief that an individual can make a difference is the first step. The next is understanding that you can be that person.\"</string>
+    <string name="slogan_author_name">- Ryan Holiday</string>
+    <string name="phone_content_desc">Phone number icon</string>
+    <string name="phone_number">0712345678</string>
+    <string name="handle">\@devkilyungi</string>
+    <string name="logo_desc">Android logo</string>
+    <string name="name">Vick Kilyungi</string>
+    <string name="title_desc">Developer Extraordinaire</string>
+</resources>
